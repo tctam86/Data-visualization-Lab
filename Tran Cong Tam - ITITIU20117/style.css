@@ -1,0 +1,11 @@
+h3 {
+  color: blue;
+}
+.lab-name {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.line {
+  stroke: blue;
+}
